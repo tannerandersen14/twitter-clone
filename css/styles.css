@@ -18,7 +18,9 @@ body {
 	background-color: #1A1B1F;
 	font-family: "Helvetica Neue",Arial,sans-serif;
 }
-
+.red {
+	color: red;
+}
 /* GLOBAL ELEMENTS */
 .avatar {
 	width: 32px;
@@ -258,5 +260,3 @@ body {
 				top: 0;
 				left: 0;
 			}
-
-
